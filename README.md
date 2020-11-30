@@ -1,8 +1,8 @@
-## Alf Bot
+## TryLs_9z-BoT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
-<img src = "https://i.ibb.co/jD65tdm/62-812-1347-7896-20201109-230938.jpg" width="320">
+
 
 
 
@@ -56,4 +56,4 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 * [`botst4rz`](https://github.com/Bintang73/botst4rz)
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 ## DONASI
-* [`Saweria`](https://saweria.com/aditiaalfians)
+* Pulsa +62 822-3558-1069
