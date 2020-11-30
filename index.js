@@ -17,10 +17,10 @@ const menu = require("./lib/menu.js");
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'ALF BOT'; 
-const instagram = 'https://instagram.com/aditiaalfians'; 
-const whatsapp = 'wa.me/6285799496179'; 
-const kapanbotaktif = '24 JAM'; 
+const BotName = 'TrySl_9z-BoT'; 
+const instagram = 'https://instagram.com/tryls3'; 
+const whatsapp = 'wa.me/6282235581069'; 
+const kapanbotaktif = 'Jika Owner Aktifkan'; 
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
@@ -70,7 +70,7 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log('Bot by ig:@aditiaalfians')
+conn.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log('Bot by ig:@tryls3')
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
